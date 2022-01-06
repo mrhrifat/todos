@@ -12,3 +12,19 @@ Todos is a simple Todo list application, which is build with ReactJS. Todo gives
 8.  Select/Unselect Todo
 9.  Clear All Todo
 10. Reset Todo
+
+## How to Use
+1. Local Environment
+    - Download the application from GitHub
+    - Open the application
+    - run from root file
+
+    ```
+    npm start
+    ```
+    - Enjoy
+2. Live
+    - [Todos](#)
+
+## Upcoming Features
+-  Deploy on server
