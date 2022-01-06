@@ -1,9 +1,7 @@
-### To Do
+## Todos
+Todos is a simple Todo list application, which is build with ReactJS. Todo gives you the ability to add, edit, and delete your daily tasks. It has approximately 10 features & user friendly. This application is developed by [Mrh Rifat](https://github.com/mrhrifat).
 
-It is a simple todo list. This application created with ReactJS.
-
-### Features
-
+## Features
 1.  Create Todo
 2.  Search Todo
 3.  Table View
@@ -14,27 +12,3 @@ It is a simple todo list. This application created with ReactJS.
 8.  Select/Unselect Todo
 9.  Clear All Todo
 10. Reset Todo
-
-### How to use
-
-1.  Download the application from GitHub
-2.  Open the application
-3.  run from root file
-
-```
-npm start
-```
-
-4.  Enjoy
-
-### Upcoming Features
-1.  Deploy on server
-
-### How to Contribute
-1.  Fork the project.
-2.  Make your changes.
-3.  Commit your changes.
-4.  Push your changes.
-5.  Open an issue or create a pull request.
-6.  Wait for the pull request to be merged.
-7.  Enjoy the todo.
